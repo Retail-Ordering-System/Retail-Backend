@@ -1,0 +1,14 @@
+# Secret config files
+appsettings.Development.json
+appsettings.local.json
+
+# Build outputs
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+
+# EF temp
+*.db
